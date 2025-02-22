@@ -39,3 +39,6 @@ case $op in
     echo "Opção inválida."
     ;;
 esac
+
+# Executar o script Python
+python3 exercicio1.py
