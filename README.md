@@ -22,7 +22,8 @@ chmod +x exercicio1.sh
 🔹 2. Executar o script no terminal
 Para rodar o programa, utilize o seguinte comando no terminal:
 
-./exercicio1.sh
+./exercicio1.sh  
+
 Isso executará o arquivo Python automaticamente.
 
 📌 Exemplo de uso
