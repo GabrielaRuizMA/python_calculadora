@@ -12,7 +12,8 @@ A calculadora suporta as seguintes operações:
 
 O usuário deve inserir o número correspondente à operação desejada e, em seguida, fornecer dois números para realizar o cálculo.
 
-📂 Como executar o projeto
+📂 Como executar o projeto  
+
 🔹 1. Configurar permissões do arquivo .sh
 Antes de rodar o script, é necessário dar permissão de execução ao arquivo .sh:
 
