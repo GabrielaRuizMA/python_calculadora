@@ -1,5 +1,7 @@
-Calculadora Financeira em Python
-Este projeto é uma calculadora financeira simples desenvolvida em Python. Ele permite realizar operações matemáticas básicas por meio do terminal.
+Calculadora Financeira em Python  
+
+Este projeto é uma calculadora financeira simples desenvolvida em Python. Ele permite realizar operações matemáticas básicas por meio do terminal.  
+
 
 📌 Funcionalidades
 A calculadora suporta as seguintes operações:
